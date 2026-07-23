@@ -1,9 +1,11 @@
-# KiCad temporary files
+# KiCad
 *.kicad_prl
 *.lck
 .history/
 
-# Operating system files
+# Windows
 Thumbs.db
 Desktop.ini
+
+# macOS
 .DS_Store
