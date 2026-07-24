@@ -42,25 +42,25 @@ An IoT project that monitors plant conditions and automatically controls waterin
 
 ## 📷 Schematic
 
-![Schematic](images/schematic.png)
+![Schematic](images/Schematic.png)
 
 ---
 
-## 🖥 PCB Layout
+## 🖥️ PCB Layout
 
-![PCB Layout](images/pcb-layout.png)
+![PCB Layout](images/PCB%20Layout.png)
 
 ---
 
 ## 📦 3D PCB View
 
-![3D PCB View](images/pcb-3d.png)
+![3D PCB View](images/3D%20PCB%20View.png)
 
 ---
 
 ## 🌐 Web Dashboard
 
-![Smart Plant Web Dashboard](images/web-dashboard.png)
+![Smart Plant Web Dashboard](images/Web%20Dashboard.png)
 ## 🚀 Current Status
 
 - ✅ Prototype completed
