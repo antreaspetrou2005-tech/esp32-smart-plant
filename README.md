@@ -75,6 +75,20 @@ The system was first developed and tested on a breadboard before designing the c
 Real-time sensor readings and watering status are displayed locally on the OLED screen.
 
 ![OLED Display](images/oled-display.jpg)
+
+
+## 💧 Custom-built DC Water Pump
+
+The water pump was designed and built from scratch using a small DC motor, a custom impeller, and a handmade housing.
+
+The pump is controlled by the ESP32 through a relay and is used for automatic watering when the soil moisture level is low.
+
+### Pump Construction
+
+![Custom-built DC Water Pump](images/Custom-built%20DC%20Water%20Pump1.jpg)
+
+![Custom-built DC Water Pump](images/Custom-built%20DC%20Water%20Pump2.jpg)
+
 ## 🚀 Current Status
 
 - ✅ Prototype completed
