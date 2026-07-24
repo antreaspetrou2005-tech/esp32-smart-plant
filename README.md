@@ -6,7 +6,7 @@ An IoT project that monitors plant conditions and automatically controls waterin
 
 - 🌡 Temperature and humidity monitoring (DHT11)
 - 🌱 Soil moisture monitoring
-- 💧 Automatic watering with relay and water pump
+- 💧 Automatic watering using a relay and water pump
 - 📺 OLED display
 - 🌐 Wi-Fi web interface
 - 🔌 Custom PCB designed in KiCad
@@ -31,11 +31,30 @@ An IoT project that monitors plant conditions and automatically controls waterin
 
 ---
 
-## 📁 Repository Contents
+## 📁 Repository Structure
 
-- `firmware/` → ESP32 source code
-- `PCB` → KiCad PCB design files
-- `Gerber` → Manufacturing files
+- `firmware/` → ESP32 firmware
+- `pcb/` → KiCad project files
+- `gerber/` → PCB manufacturing files
+- `images/` → Project images
+
+---
+
+## 📷 Schematic
+
+![Schematic](images/schematic.png)
+
+---
+
+## 🖥 PCB Layout
+
+![PCB Layout](images/pcb-layout.png)
+
+---
+
+## 📦 3D PCB View
+
+![3D PCB](images/pcb-3d.png)
 
 ---
 
@@ -43,7 +62,7 @@ An IoT project that monitors plant conditions and automatically controls waterin
 
 - ✅ Prototype completed
 - ✅ Firmware completed
-- ✅ PCB designed in KiCad
+- ✅ Custom PCB designed
 - ✅ Gerber files generated
 - ⏳ Physical PCB assembly coming soon
 
@@ -55,3 +74,9 @@ An IoT project that monitors plant conditions and automatically controls waterin
 
 Electrical Engineering Student  
 Aristotle University of Thessaloniki
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
