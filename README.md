@@ -61,6 +61,20 @@ An IoT project that monitors plant conditions and automatically controls waterin
 ## 🌐 Web Dashboard
 
 ![Smart Plant Web Dashboard](images/Web%20Dashboard.png)
+
+---
+
+## 🔧 Working Prototype
+
+The system was first developed and tested on a breadboard before designing the custom PCB.
+
+![Working Prototype](images/prototype.jpg)
+
+### 📺 OLED Display
+
+Real-time sensor readings and watering status are displayed locally on the OLED screen.
+
+![OLED Display](images/oled-display.jpg)
 ## 🚀 Current Status
 
 - ✅ Prototype completed
