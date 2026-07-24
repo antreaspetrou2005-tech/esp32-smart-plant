@@ -20,7 +20,7 @@ An IoT project that monitors plant conditions and automatically controls waterin
 - Soil Moisture Sensor
 - SSD1306 OLED Display
 - Relay Module
-- Water Pump
+- Custom-built DC Water Pump
 
 ---
 
